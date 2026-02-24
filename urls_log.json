@@ -1,0 +1,79 @@
+[
+    {
+        "timestamp": "2026-02-24 08:18:05",
+        "url": "https://www.google.com",
+        "risk": "Low Risk",
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-02-24 08:18:07",
+        "url": "https://www.google.com",
+        "risk": "Low Risk",
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-02-24 08:18:40",
+        "url": "https://www.google.com",
+        "risk": "Low Risk",
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-02-24 08:19:27",
+        "url": "https://www.google.com",
+        "risk": "Low Risk",
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-02-24 22:30:32",
+        "url": "https://w**2**info/",
+        "risk": "Low Risk",
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-02-24 22:30:46",
+        "url": "https://threatcenter.crdf.fr/?Domains",
+        "risk": "Low Risk",
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-02-24 22:30:54",
+        "url": "doman",
+        "risk": "Medium Risk",
+        "reasons": [
+            "Invalid URL scheme",
+            "URL does not use HTTPS"
+        ]
+    },
+    {
+        "timestamp": "2026-02-24 22:31:42",
+        "url": "http://www.malwaredomainlist.com/",
+        "risk": "Low Risk",
+        "reasons": [
+            "URL does not use HTTPS"
+        ]
+    },
+    {
+        "timestamp": "2026-02-24 22:34:56",
+        "url": "https://go.openathens.net/redirector/www.monash.edu?url=https%3A%2F%2Fwww.instagram.com%2Fchill._vistaa%3Figsh%3Dem9hYXgydjhxY2J6",
+        "risk": "Low Risk",
+        "reasons": [
+            "URL length is unusually long"
+        ]
+    },
+    {
+        "timestamp": "2026-02-24 22:36:29",
+        "url": "http://192.168.1.10/login/verify-account-secure-update?bonus=free",
+        "risk": "High Risk",
+        "reasons": [
+            "URL does not use HTTPS",
+            "IP address used instead of domain name",
+            "Suspicious keyword detected: login",
+            "Suspicious keyword detected: verify",
+            "Suspicious keyword detected: secure",
+            "Suspicious keyword detected: update",
+            "Suspicious keyword detected: account",
+            "Suspicious keyword detected: free",
+            "Suspicious keyword detected: bonus"
+        ]
+    }
+]
